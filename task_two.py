@@ -2,7 +2,7 @@ import pandas as pd
 import tabula
 
 # (After running task_one) reading archive pdf:
-file = 'output/Anexo_I_Rol_2021RN_465.2021_RN473_RN478_RN480_RN513_RN536.pdf'
+file = 'output/Anexo_I_Rol_2021RN_465.2021_RN473_RN478_RN480_RN513_RN536_RN537.pdf'
 
 tables = tabula.read_pdf(file, pages = 'all', multiple_tables = True)
 
