@@ -23,3 +23,4 @@ if __name__ == "__main__":
                             archive_name='AnexoI.csv')
     df_final.to_csv('Teste_{AndrePavan}.zip', index=False, compression=compression_opts)
 
+    print("Done!")
