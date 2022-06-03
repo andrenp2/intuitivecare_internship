@@ -1,11 +1,22 @@
 # intuitivecare_intership
 
-Solutions to the tasks proposed for the Intuitive Care internship program.
+Solutions to the tasks proposed for the Intuitive Care internship program. 
 
-Run the 'requirements.txt' file to use the same code creation packages.
+In the folder of the file "~/intuitive care internship" run the following commands 
+to use the same code creation packages.
+
+Install required packages
+~~~python
+pip3 install -r requirements.txt
+~~~
+
+Running in terminal:
 
 ~~~python
-pip install -r requirements.txt
+python3 task_one.py #For the first task
+~~~
+~~~python
+python3 task_two.py #For the second task
 ~~~
 
 ### Files: 
